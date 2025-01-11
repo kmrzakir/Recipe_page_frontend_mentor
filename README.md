@@ -9,8 +9,8 @@ This is a solution to a Frontend Mentor challenge (https://www.frontendmentor.io
 - Minimalistic CSS styling.
 
 ## Screenshot
-[Desktop View](./images/desktop1.png)[AND](./images/desktop2.pn).
-[Phone View](./images/phone1.png)[AND](./images/phone2.png).
+[Desktop View](./images/desktop1.png)[  AND](./images/desktop2.pn).
+[Phone View](./images/phone1.png)[  AND](./images/phone2.png).
 [What I learned](#what-i-learned)
 
 ## Links
